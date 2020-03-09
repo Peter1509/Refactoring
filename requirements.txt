@@ -5,3 +5,4 @@ sqlalchemy
 psycopg2
 psycopg2-binary
 smartninja-redis
+huey
